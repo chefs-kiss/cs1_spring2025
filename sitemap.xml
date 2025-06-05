@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://chefs-kiss.github.io/intro2cs/index.html</loc>
-    <lastmod>2025-06-05T20:19:05.996Z</lastmod>
+    <lastmod>2025-06-05T20:24:00.340Z</lastmod>
   </url>
   <url>
-    <loc>https://chefs-kiss.github.io/intro2cs/projects/readme.html</loc>
-    <lastmod>2025-06-05T20:19:05.996Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chefs-kiss.github.io/intro2cs/slides/index.html</loc>
-    <lastmod>2025-06-05T20:19:06.006Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chefs-kiss.github.io/intro2cs/schedule.html</loc>
-    <lastmod>2025-06-05T20:19:05.996Z</lastmod>
+    <loc>https://chefs-kiss.github.io/intro2cs/Runestone/runestone.html</loc>
+    <lastmod>2025-06-05T20:24:00.340Z</lastmod>
   </url>
   <url>
     <loc>https://chefs-kiss.github.io/intro2cs/standards/readme.html</loc>
-    <lastmod>2025-06-05T20:19:06.006Z</lastmod>
+    <lastmod>2025-06-05T20:24:00.350Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chefs-kiss.github.io/intro2cs/schedule.html</loc>
+    <lastmod>2025-06-05T20:24:00.340Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chefs-kiss.github.io/intro2cs/slides/index.html</loc>
+    <lastmod>2025-06-05T20:24:00.350Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chefs-kiss.github.io/intro2cs/projects/readme.html</loc>
+    <lastmod>2025-06-05T20:24:00.340Z</lastmod>
   </url>
   <url>
     <loc>https://chefs-kiss.github.io/intro2cs/materials.html</loc>
-    <lastmod>2025-06-05T20:19:05.996Z</lastmod>
+    <lastmod>2025-06-05T20:24:00.340Z</lastmod>
   </url>
 </urlset>

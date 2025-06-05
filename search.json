@@ -10,18 +10,21 @@
     ]
   },
   {
-    "objectID": "projects/readme.html",
-    "href": "projects/readme.html",
+    "objectID": "Runestone/runestone.html",
+    "href": "Runestone/runestone.html",
     "title": "Introduction to Programming",
     "section": "",
-    "text": "Click on each folder to access project content"
+    "text": "testing",
+    "crumbs": [
+      "Getting Started with Runestone"
+    ]
   },
   {
-    "objectID": "slides/index.html",
-    "href": "slides/index.html",
-    "title": "Slide Decks",
+    "objectID": "standards/readme.html",
+    "href": "standards/readme.html",
+    "title": "Introduction to Programming",
     "section": "",
-    "text": "Available Decks\n\nDay 0: Programming IRL\nDay 1: Becoming a Computer\nDay 2: Variables and Data Types"
+    "text": "Click on standards to view objectives and practice problems. See schedule for when standards will be assessed."
   },
   {
     "objectID": "schedule.html",
@@ -34,11 +37,18 @@
     ]
   },
   {
-    "objectID": "standards/readme.html",
-    "href": "standards/readme.html",
+    "objectID": "slides/index.html",
+    "href": "slides/index.html",
+    "title": "Slide Decks",
+    "section": "",
+    "text": "Available Decks\n\nDay 0: Programming IRL\nDay 1: Becoming a Computer\nDay 2: Variables and Data Types"
+  },
+  {
+    "objectID": "projects/readme.html",
+    "href": "projects/readme.html",
     "title": "Introduction to Programming",
     "section": "",
-    "text": "Click on standards to view objectives and practice problems. See schedule for when standards will be assessed."
+    "text": "Click on each folder to access project content"
   },
   {
     "objectID": "materials.html",
