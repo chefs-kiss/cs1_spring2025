@@ -1,1 +1,1 @@
-Sitemap: https://chefs-kiss.github.io/intro2ml/sitemap.xml
+Sitemap: https://chefs-kiss.github.io/intro2cs/sitemap.xml
