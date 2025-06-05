@@ -10,6 +10,20 @@
     ]
   },
   {
+    "objectID": "projects/readme.html",
+    "href": "projects/readme.html",
+    "title": "Introduction to Programming",
+    "section": "",
+    "text": "Click on each folder to access project content"
+  },
+  {
+    "objectID": "slides/readme.html",
+    "href": "slides/readme.html",
+    "title": "Introduction to Programming",
+    "section": "",
+    "text": "Drop spot for PPT slides"
+  },
+  {
     "objectID": "schedule.html",
     "href": "schedule.html",
     "title": "Spring 2025 Schedule",
@@ -18,6 +32,13 @@
     "crumbs": [
       "Schedule"
     ]
+  },
+  {
+    "objectID": "standards/readme.html",
+    "href": "standards/readme.html",
+    "title": "Introduction to Programming",
+    "section": "",
+    "text": "Click on standards to view objectives and practice problems. See schedule for when standards will be assessed."
   },
   {
     "objectID": "materials.html",
