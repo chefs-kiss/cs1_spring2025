@@ -41,7 +41,42 @@
     "href": "slides/index.html",
     "title": "Slide Decks",
     "section": "",
-    "text": "Welcome\n\nIRL\n\n\n\nIO: Input and Output\n\nIO1\nIO2\nIO3\n\n\n\nT: Turtle\n\nT1\nT2\nT3\n\n\n\nFOR: Sequences + Iteration\n\nSEQ1\nSEQ2\nFOR1\nFOR2\n\n\n\nIF: Conditionals\n-IF1"
+    "text": "IRL"
+  },
+  {
+    "objectID": "slides/index.html#welcome",
+    "href": "slides/index.html#welcome",
+    "title": "Slide Decks",
+    "section": "",
+    "text": "IRL"
+  },
+  {
+    "objectID": "slides/index.html#io-input-and-output",
+    "href": "slides/index.html#io-input-and-output",
+    "title": "Slide Decks",
+    "section": "IO: Input and Output",
+    "text": "IO: Input and Output\n\nIO1\nIO2\nIO3"
+  },
+  {
+    "objectID": "slides/index.html#t-turtle",
+    "href": "slides/index.html#t-turtle",
+    "title": "Slide Decks",
+    "section": "T: Turtle",
+    "text": "T: Turtle\n\nT1\nT2\nT3"
+  },
+  {
+    "objectID": "slides/index.html#for-sequences-iteration",
+    "href": "slides/index.html#for-sequences-iteration",
+    "title": "Slide Decks",
+    "section": "FOR: Sequences + Iteration",
+    "text": "FOR: Sequences + Iteration\n\nSEQ1\nSEQ2\nFOR1\nFOR2"
+  },
+  {
+    "objectID": "slides/index.html#if-conditionals",
+    "href": "slides/index.html#if-conditionals",
+    "title": "Slide Decks",
+    "section": "IF: Conditionals",
+    "text": "IF: Conditionals\n-IF1"
   },
   {
     "objectID": "projects/readme.html",
