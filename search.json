@@ -66,6 +66,34 @@
     ]
   },
   {
+    "objectID": "2_variables.html#namespace-and-objectspace",
+    "href": "2_variables.html#namespace-and-objectspace",
+    "title": "Warm-up",
+    "section": "Namespace and Objectspace",
+    "text": "Namespace and Objectspace\nUsing at the code below, fill in the rest of the following (double-click to edit):\nnamespace –&gt; objectspace\n\na –&gt; 4\n__ –&gt; __\n__ –&gt; __\n\n\na = 4\nb = a + a\na = b *4\n\nTo check your work, add a print statement to see the final value of a"
+  },
+  {
+    "objectID": "2_variables.html#variable-types-and-naming",
+    "href": "2_variables.html#variable-types-and-naming",
+    "title": "Warm-up",
+    "section": "Variable Types and Naming",
+    "text": "Variable Types and Naming\nFirst, add (ok) after any variables which are valid variable names.\nSecondly, for the valid variable names do the following:\nBold any of the following variable names which follow good naming conventions.\nItalize any names which are not meaningful.\n\nPipp1n\nPIPPIN!\n_2hobbit4u\npippinTook\n1ring2rule\npip_the_hobbit\nPIPPIN$$\np\n\nWrite a brief reason for variables you made bold or italic."
+  },
+  {
+    "objectID": "2_variables.html#temperature-conversion-program",
+    "href": "2_variables.html#temperature-conversion-program",
+    "title": "Warm-up",
+    "section": "Temperature Conversion Program",
+    "text": "Temperature Conversion Program\nWe want a program that will convert temperatures from C to F. The steps for doing this are: 1. Use the input function to get the temperature in C from the user, and store it in as a float in an appropriately named variable. 2. Convert the C temperature to its F equivalent. The formula to convert C to F is: 9/5 C + 32. 3. Use print to provide the user with a message that tells them the temperature in C (that they provided) and what its equivalent temperature is in F.\nAn example of running your program will produce the following first line for the user input (user enters 0) and the second line as the output:\nWhat is the temperature in C: 0\n0C is 32F.\nOnce you have a program that works, try to make it more efficient by using only one variable and only two lines of code.\n\n#your code here"
+  },
+  {
+    "objectID": "2_variables.html#the-year-you-turn-100",
+    "href": "2_variables.html#the-year-you-turn-100",
+    "title": "Warm-up",
+    "section": "The Year You Turn 100",
+    "text": "The Year You Turn 100\nWrite a program that prompts the user to enter their age and the current year. It then displays the year they will turn 100.\nAn example of executing this program is given below:\nWhat is your age? 30\nWhat year is it? 2024\nYou will turn 100 in the year 2094\n\n#your code here"
+  },
+  {
     "objectID": "materials.html",
     "href": "materials.html",
     "title": "Course Materials",
