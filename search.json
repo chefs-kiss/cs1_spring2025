@@ -1,23 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Introduction to Programming with Python",
+    "objectID": "projects/readme.html",
+    "href": "projects/readme.html",
+    "title": "Introduction to Programming",
     "section": "",
-    "text": "121 : MWF 11:50 -12:45 in TOH 210  125 : MWF 12:55 - 1:50 in TOH 210\nMission: This is a welcoming, inclusive, encouraging, and failure-tolerant class.\nInstructor: Kim Mandery E-mail: mander1@stolaf.edu\nOffice: RMS 309 Office Hours: W 3-4, Th 12:30-2:30, F 3-4\nTeaching Assistants: Drop-in TA help sessions hours and location will be posted on Moodle. The TAs are here to help guide you through the problem solving process, but are not responsible for giving exact answers to homework.\nTextbook: The textbook for this course is an online interactive textbook, available for free through Runestone Academy\nCourse Description: This course introduces the perspectives and methods of computer science. Students learn to develop algorithms, which are step-by-step procedures for accomplishing a task. Students translate these algorithms into a programming language, utilizing common programming structures. The structures covered include variables, functions, loops, control flow, basic data structures, classes, and a brief introduction to object-oriented programming.\nCourse Objectives: - To understand key concepts and abstractions involved in programming. - To be able to write simple computer programs. - To better understand how computers work. - To develop knowledge and skills that will allow the student to use computers to solve novel problems throughout life.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "Runestone/runestone.html",
-    "href": "Runestone/runestone.html",
-    "title": "Getting Started with Runestone",
-    "section": "",
-    "text": "For this course, we will be using an online interactive textbook called Foundations of Python Programming, which is available through a platform called Runestone Academy. These instructions will walk you through the process of setting up an account, using the textbook, and accessing reading assignments.\n\nCreating a Runestone Account\nFirst, go to https://runestone.academy. This is the main landing page for Runestone Academy. Once there, the page should look similar to the image below:\n\n\n\nRunestone home screen\n\n\nClick the Sign Up button in the upper left. This takes you to a form like the one below:\n\n\n\nRunestone registration\n\n\nA few notes while creating your account:\n\nRunestone Academy is external to St. Olaf and may use your usage data for academic research. Their Privacy Policy is available at the bottom of the page.\nYou do not need to use your real name or St. Olaf email address. However, if you use different info, please email Prof. Mandery (mander1@stolaf.edu) with your Runestone name/email so your progress can be tracked.\nDo not reuse your St. Olaf password. Use a unique one. A password manager or memorized unique passwords for important accounts is recommended.\nThe course name is stolaf_spring2025 (type this manually).\nCheck the box to agree to privacy/terms.\nDo not check the box to create a course.\n\nAfter clicking Sign Up, you may be asked to make a donation:\n\n\n\nRunestone donation\n\n\nDonating is optional and doesn’t affect access or features. Click “Sorry, not Today” if you’d like to skip.\nAfter that, you’ll be taken directly to the textbook:\n\n\n\nTextbook landing\n\n\nNote: The projects listed at the end of the textbook are not your course projects. You are welcome to explore them, but your actual projects are separate.\n\n\n\nAccessing Reading Assignments\nTo access assignments:\n\nLog into Runestone.\nClick the person icon (top right), then choose Assignments:\n\n\n\n\nAccessing assignments\n\n\nYou’ll see a list like this (not all assignments will appear at once):\n\n\n\nAssignment list\n\n\nClick on the assignment you want. For example:\n\n\n\nAssignment example\n\n\nEach assignment has multiple pages. To begin, click the first link (e.g., “General Introduction/1.1 Introduction: The Way of the Program”). This will take you to a reading page:\n\n\n\nReading page\n\n\nRead the page, watch videos, complete exercises. When done, you’ll see a green “Completed. Well Done!” message. For text-only pages, click Mark as Completed.\nNavigate using Continue to page … to follow the assignment sequence.\nSome pages include interactive exercises:\n\n\n\nInteractive exercise\n\n\nTry to complete these to the best of your ability. There’s no limit on attempts. You don’t need perfect answers, but you must make a serious effort. Ask for help if needed.\nReturn to the assignment landing page to track progress. Green check marks indicate pages you’ve completed. Use the Compute Score for Assignment button to update your progress.\nYou can also use the In Progress and Finished buttons to help track your status:\n\n\nThese buttons are just for you—grading is based on actual activity before the due date.\nAfter clicking Compute Score, your completion % will update. Individual sections also show scores:\n\n\n\nScore tracking\n\n\n\n\n⚠ Note:\nSome textbook sections are still being developed. Occasionally, a completed section may not be recorded. As explained in the syllabus, assignments are graded on a 2-point scale, and anything &gt;80% completion will receive full credit.",
-    "crumbs": [
-      "Getting Started with Runestone"
-    ]
+    "text": "Click on each folder to access project content"
   },
   {
     "objectID": "standards/readme.html",
@@ -25,16 +12,6 @@
     "title": "Introduction to Programming",
     "section": "",
     "text": "Click on standards to view objectives and practice problems. See schedule for when standards will be assessed."
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Spring 2025 Schedule",
-    "section": "",
-    "text": "Week\nTopic\nWeekday\nDate\nLecture\nStandards\nAssignments (due at midnight)\n\n\n\n\n1\nFirst Day\nFriday\n2/7\nWelcome + Programming IRL\n\n\n\n\n2\nIO: Input and Output\nMonday\n2/10\nIO1: Inside Computers, Algorithms, print()\n\nRR1, About Me quiz\n\n\n2\nIO: Input and Output\nWednesday\n2/12\nIO2: Variables, Operators, Data Types, input()\n\n\n\n\n2\nIO: Input and Output\nFriday\n2/14\nIO3: IDLE, Writing Programs, Debugging\n\nHW1\n\n\n3\nT: Turtles\nMonday\n2/17\nT1: Modules, turtle.Turtle()\n\nRR2\n\n\n3\nT: Turtles\nWednesday\n2/19\nT2: Turtle Methods\n\nProject 1\n\n\n3\nT: Turtles\nFriday\n2/21\nT3: class Terminology, range(), Strings\n\nHW2\n\n\n4\nFOR: Sequences + Iteration\nMonday\n2/24\nSEQ1: String Slicing and Methods\n\nRR3\n\n\n4\nFOR: Sequences + Iteration\nWednesday\n2/26\nSEQ2: Lists\nQuiz1 (IO+T)\nProject 2\n\n\n4\nFOR: Sequences + Iteration\nFriday\n2/28\nFOR1: Iteration + Loops, Rewrite Instructions\n\nHW3\n\n\n5\nFOR: Sequences + Iteration\nMonday\n3/3\nFOR3: Accumulator Pattern\nQuiz1 rewrites due\nRR4\n\n\n5\nIF: Conditionals\nWednesday\n3/5\nIF1: Conditionals\n\nProject 3 (Th)\n\n\n5\nIM: Images\nFriday\n3/7\nIM1: Images\n\nHW4\n\n\n6\nIM: Images\nMonday\n3/10\nIM2: Transforming Images\n\nRR5\n\n\n6\nIM: Images\nWednesday\n3/12\nIM3: Image Practice\nQuiz2 (FOR, IF)\nHW5, Project 4 (Th)\n\n\n6\nFN: Functions\nFriday\n3/14\nFN1: Functions\n\nRR6 (Sun)\n\n\n7\nFN: Functions\nMonday\n3/17\nFN2: Functions\nQuiz2 rewrites due\n\n\n\n7\nFN: Functions\nWednesday\n3/19\nFN3: Functions\n\nHW6\n\n\n7\nLST: Transforming Sequences\nFriday\n3/21\nSEQ3: Transforming\n\nProject 5\n\n\n8\nLST: Transforming Sequences\nMonday\n3/24\nSEQ4: Transforming\n\nRR7\n\n\n8\nLST: Transforming Sequences\nWednesday\n3/26\nSEQ5: Transforming\nQuiz3 (IM, FN)\nHW7\n\n\n8\nFI: Files\nFriday\n3/28\nFI1: Files\n\nRR8\n\n\n9\n\n\n\nSpring Break 3/29 - 4/6\n\n\n\n\n10\nFI: Files\nMonday\n4/7\nFI2: Writing\nQuiz3 rewrites due\n\n\n\n10\nFI: Files\nWednesday\n4/9\nFI3: csvs\n\nHW8, Project 6 (Th)\n\n\n10\nExam 1\nFriday\n4/11\nCH1 and Retakes (IO, T, FOR, IF, IM, FN)\n\n\n\n\n11\nDCT: Dictionaries\nMonday\n4/14\nDCT1: Dictionaries\n\nRR9\n\n\n11\nDCT: Dictionaries\nWednesday\n4/26\nDCT2: Dictionaries, Exam1 rewrites due\n\n\n\n\n11\nDCT: Dictionaries\nFriday\n4/18\nDCT3: Dictionaries Practice\nQuiz4 (LST, FI)\nProject 7\n\n\n12\nREC: Recursion\nMonday\n4/21\nREC1: Recursion\n\nHW9\n\n\n12\nREC: Recursion\nWednesday\n4/23\nREC2: Recursion Practice\nQuiz4 rewrites due\nRR10 (Th)\n\n\n12\nWH: While Loop\nFriday\n4/25\nWH1: While Loops\n\nProject 8\n\n\n13\nWH: While Loop\nMonday\n4/28\nWH2: Flow Control\n\nHW10 (Tu)\n\n\n13\nCLS: Classes\nWednesday\n4/30\nCLS1: Classes\nQuiz5 (DCT, REC)\nRR11 (Th)\n\n\n13\nCLS: Classes\nFriday\n5/2\nCLS2: Classes\n\n\n\n\n14\nCLS: Classes\nMonday\n5/5\nCLS3: Classes Practice\nQuiz 6 (WH, CLS)\nProject 9\n\n\n14\nCLS: Classes\nWednesday\n5/7\nWorkday\nQuiz 6 rewrites due\nHW11\n\n\n14\nExam2\nFriday\n5/9\nCH2 + Retakes (LST, FI, DCT, REC, WH, CLS)\n\n\n\n\n15\nLast Day\nMonday\n5/12\nGame Day + Prize Raffle\n\nProject 10\n\n\n15\nFinals\nThursday\n5/15\nRedo any standards\n\n\n\n\n15\nFinals\nSaturday\n5/17\nRedo any standards",
-    "crumbs": [
-      "Schedule"
-    ]
   },
   {
     "objectID": "slides/index.html",
@@ -79,11 +56,42 @@
     "text": "IF: Conditionals\n-IF1"
   },
   {
-    "objectID": "projects/readme.html",
-    "href": "projects/readme.html",
-    "title": "Introduction to Programming",
+    "objectID": "Runestone/runestone.html",
+    "href": "Runestone/runestone.html",
+    "title": "Getting Started with Runestone",
     "section": "",
-    "text": "Click on each folder to access project content"
+    "text": "For this course, we will be using an online interactive textbook called Foundations of Python Programming, which is available through a platform called Runestone Academy. These instructions will walk you through the process of setting up an account, using the textbook, and accessing reading assignments.\n\nCreating a Runestone Account\nFirst, go to https://runestone.academy. This is the main landing page for Runestone Academy. Once there, the page should look similar to the image below:\n\n\n\nRunestone home screen\n\n\nClick the Sign Up button in the upper left. This takes you to a form like the one below:\n\n\n\nRunestone registration\n\n\nA few notes while creating your account:\n\nRunestone Academy is external to St. Olaf and may use your usage data for academic research. Their Privacy Policy is available at the bottom of the page.\nYou do not need to use your real name or St. Olaf email address. However, if you use different info, please email Prof. Mandery (mander1@stolaf.edu) with your Runestone name/email so your progress can be tracked.\nDo not reuse your St. Olaf password. Use a unique one. A password manager or memorized unique passwords for important accounts is recommended.\nThe course name is stolaf_spring2025 (type this manually).\nCheck the box to agree to privacy/terms.\nDo not check the box to create a course.\n\nAfter clicking Sign Up, you may be asked to make a donation:\n\n\n\nRunestone donation\n\n\nDonating is optional and doesn’t affect access or features. Click “Sorry, not Today” if you’d like to skip.\nAfter that, you’ll be taken directly to the textbook:\n\n\n\nTextbook landing\n\n\nNote: The projects listed at the end of the textbook are not your course projects. You are welcome to explore them, but your actual projects are separate.\n\n\n\nAccessing Reading Assignments\nTo access assignments:\n\nLog into Runestone.\nClick the person icon (top right), then choose Assignments:\n\n\n\n\nAccessing assignments\n\n\nYou’ll see a list like this (not all assignments will appear at once):\n\n\n\nAssignment list\n\n\nClick on the assignment you want. For example:\n\n\n\nAssignment example\n\n\nEach assignment has multiple pages. To begin, click the first link (e.g., “General Introduction/1.1 Introduction: The Way of the Program”). This will take you to a reading page:\n\n\n\nReading page\n\n\nRead the page, watch videos, complete exercises. When done, you’ll see a green “Completed. Well Done!” message. For text-only pages, click Mark as Completed.\nNavigate using Continue to page … to follow the assignment sequence.\nSome pages include interactive exercises:\n\n\n\nInteractive exercise\n\n\nTry to complete these to the best of your ability. There’s no limit on attempts. You don’t need perfect answers, but you must make a serious effort. Ask for help if needed.\nReturn to the assignment landing page to track progress. Green check marks indicate pages you’ve completed. Use the Compute Score for Assignment button to update your progress.\nYou can also use the In Progress and Finished buttons to help track your status:\n\n\nThese buttons are just for you—grading is based on actual activity before the due date.\nAfter clicking Compute Score, your completion % will update. Individual sections also show scores:\n\n\n\nScore tracking\n\n\n\n\n⚠ Note:\nSome textbook sections are still being developed. Occasionally, a completed section may not be recorded. As explained in the syllabus, assignments are graded on a 2-point scale, and anything &gt;80% completion will receive full credit.",
+    "crumbs": [
+      "Getting Started with Runestone"
+    ]
+  },
+  {
+    "objectID": "2_variables.html#namespace-and-objectspace",
+    "href": "2_variables.html#namespace-and-objectspace",
+    "title": "Warm-up",
+    "section": "Namespace and Objectspace",
+    "text": "Namespace and Objectspace\nUsing at the code below, fill in the rest of the following (double-click to edit):\nnamespace –&gt; objectspace\n\na –&gt; 4\n__ –&gt; __\n__ –&gt; __\n\n\na = 4\nb = a + a\na = b *4\n\nTo check your work, add a print statement to see the final value of a"
+  },
+  {
+    "objectID": "2_variables.html#variable-types-and-naming",
+    "href": "2_variables.html#variable-types-and-naming",
+    "title": "Warm-up",
+    "section": "Variable Types and Naming",
+    "text": "Variable Types and Naming\nFirst, add (ok) after any variables which are valid variable names.\nSecondly, for the valid variable names do the following:\nBold any of the following variable names which follow good naming conventions.\nItalize any names which are not meaningful.\n\nProfEss0r\nPROF!\n_prof2theMAX\nprofessorKim\n2prof2furious\nprof_kim\nPROF$KIM\np\n\nWrite a brief reason for variables you made bold or italic."
+  },
+  {
+    "objectID": "2_variables.html#temperature-conversion-program",
+    "href": "2_variables.html#temperature-conversion-program",
+    "title": "Warm-up",
+    "section": "Temperature Conversion Program",
+    "text": "Temperature Conversion Program\nWe want a program that will convert temperatures from C to F. The steps for doing this are: 1. Use the input function to get the temperature in C from the user, and store it in as a float in an appropriately named variable. 2. Convert the C temperature to its F equivalent. The formula to convert C to F is: 9/5 C + 32. 3. Use print to provide the user with a message that tells them the temperature in C (that they provided) and what its equivalent temperature is in F.\nAn example of running your program will produce the following first line for the user input (user enters 0) and the second line as the output:\nWhat is the temperature in C: 0\n0C is 32F.\nOnce you have a program that works, try to make it more efficient by using only one variable and only two lines of code.\n\n#your code here"
+  },
+  {
+    "objectID": "2_variables.html#the-year-you-turn-100",
+    "href": "2_variables.html#the-year-you-turn-100",
+    "title": "Warm-up",
+    "section": "The Year You Turn 100",
+    "text": "The Year You Turn 100\nWrite a program that prompts the user to enter their age and the current year. It then displays the year they will turn 100.\nAn example of executing this program is given below:\nWhat is your age? 30\nWhat year is it? 2024\nYou will turn 100 in the year 2094\n\n#your code here"
   },
   {
     "objectID": "materials.html",
@@ -93,6 +101,26 @@
     "text": "Slides\n[Standards]\n[Projects]",
     "crumbs": [
       "Materials"
+    ]
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Spring 2025 Schedule",
+    "section": "",
+    "text": "Week\nTopic\nWeekday\nDate\nLecture\nStandards\nAssignments (due at midnight)\n\n\n\n\n1\nFirst Day\nFriday\n2/7\nWelcome + Programming IRL\n\n\n\n\n2\nIO: Input and Output\nMonday\n2/10\nIO1: Inside Computers, Algorithms, print()\n\nRR1, About Me quiz\n\n\n2\nIO: Input and Output\nWednesday\n2/12\nIO2: Variables, Operators, Data Types, input()\n\n\n\n\n2\nIO: Input and Output\nFriday\n2/14\nIO3: IDLE, Writing Programs, Debugging\n\nHW1\n\n\n3\nT: Turtles\nMonday\n2/17\nT1: Modules, turtle.Turtle()\n\nRR2\n\n\n3\nT: Turtles\nWednesday\n2/19\nT2: Turtle Methods\n\nProject 1\n\n\n3\nT: Turtles\nFriday\n2/21\nT3: class Terminology, range(), Strings\n\nHW2\n\n\n4\nFOR: Sequences + Iteration\nMonday\n2/24\nSEQ1: String Slicing and Methods\n\nRR3\n\n\n4\nFOR: Sequences + Iteration\nWednesday\n2/26\nSEQ2: Lists\nQuiz1 (IO+T)\nProject 2\n\n\n4\nFOR: Sequences + Iteration\nFriday\n2/28\nFOR1: Iteration + Loops, Rewrite Instructions\n\nHW3\n\n\n5\nFOR: Sequences + Iteration\nMonday\n3/3\nFOR3: Accumulator Pattern\nQuiz1 rewrites due\nRR4\n\n\n5\nIF: Conditionals\nWednesday\n3/5\nIF1: Conditionals\n\nProject 3 (Th)\n\n\n5\nIM: Images\nFriday\n3/7\nIM1: Images\n\nHW4\n\n\n6\nIM: Images\nMonday\n3/10\nIM2: Transforming Images\n\nRR5\n\n\n6\nIM: Images\nWednesday\n3/12\nIM3: Image Practice\nQuiz2 (FOR, IF)\nHW5, Project 4 (Th)\n\n\n6\nFN: Functions\nFriday\n3/14\nFN1: Functions\n\nRR6 (Sun)\n\n\n7\nFN: Functions\nMonday\n3/17\nFN2: Functions\nQuiz2 rewrites due\n\n\n\n7\nFN: Functions\nWednesday\n3/19\nFN3: Functions\n\nHW6\n\n\n7\nLST: Transforming Sequences\nFriday\n3/21\nSEQ3: Transforming\n\nProject 5\n\n\n8\nLST: Transforming Sequences\nMonday\n3/24\nSEQ4: Transforming\n\nRR7\n\n\n8\nLST: Transforming Sequences\nWednesday\n3/26\nSEQ5: Transforming\nQuiz3 (IM, FN)\nHW7\n\n\n8\nFI: Files\nFriday\n3/28\nFI1: Files\n\nRR8\n\n\n9\n\n\n\nSpring Break 3/29 - 4/6\n\n\n\n\n10\nFI: Files\nMonday\n4/7\nFI2: Writing\nQuiz3 rewrites due\n\n\n\n10\nFI: Files\nWednesday\n4/9\nFI3: csvs\n\nHW8, Project 6 (Th)\n\n\n10\nExam 1\nFriday\n4/11\nCH1 and Retakes (IO, T, FOR, IF, IM, FN)\n\n\n\n\n11\nDCT: Dictionaries\nMonday\n4/14\nDCT1: Dictionaries\n\nRR9\n\n\n11\nDCT: Dictionaries\nWednesday\n4/26\nDCT2: Dictionaries, Exam1 rewrites due\n\n\n\n\n11\nDCT: Dictionaries\nFriday\n4/18\nDCT3: Dictionaries Practice\nQuiz4 (LST, FI)\nProject 7\n\n\n12\nREC: Recursion\nMonday\n4/21\nREC1: Recursion\n\nHW9\n\n\n12\nREC: Recursion\nWednesday\n4/23\nREC2: Recursion Practice\nQuiz4 rewrites due\nRR10 (Th)\n\n\n12\nWH: While Loop\nFriday\n4/25\nWH1: While Loops\n\nProject 8\n\n\n13\nWH: While Loop\nMonday\n4/28\nWH2: Flow Control\n\nHW10 (Tu)\n\n\n13\nCLS: Classes\nWednesday\n4/30\nCLS1: Classes\nQuiz5 (DCT, REC)\nRR11 (Th)\n\n\n13\nCLS: Classes\nFriday\n5/2\nCLS2: Classes\n\n\n\n\n14\nCLS: Classes\nMonday\n5/5\nCLS3: Classes Practice\nQuiz 6 (WH, CLS)\nProject 9\n\n\n14\nCLS: Classes\nWednesday\n5/7\nWorkday\nQuiz 6 rewrites due\nHW11\n\n\n14\nExam2\nFriday\n5/9\nCH2 + Retakes (LST, FI, DCT, REC, WH, CLS)\n\n\n\n\n15\nLast Day\nMonday\n5/12\nGame Day + Prize Raffle\n\nProject 10\n\n\n15\nFinals\nThursday\n5/15\nRedo any standards\n\n\n\n\n15\nFinals\nSaturday\n5/17\nRedo any standards",
+    "crumbs": [
+      "Schedule"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction to Programming with Python",
+    "section": "",
+    "text": "121 : MWF 11:50 -12:45 in TOH 210  125 : MWF 12:55 - 1:50 in TOH 210\nMission: This is a welcoming, inclusive, encouraging, and failure-tolerant class.\nInstructor: Kim Mandery E-mail: mander1@stolaf.edu\nOffice: RMS 309 Office Hours: W 3-4, Th 12:30-2:30, F 3-4\nTeaching Assistants: Drop-in TA help sessions hours and location will be posted on Moodle. The TAs are here to help guide you through the problem solving process, but are not responsible for giving exact answers to homework.\nTextbook: The textbook for this course is an online interactive textbook, available for free through Runestone Academy\nCourse Description: This course introduces the perspectives and methods of computer science. Students learn to develop algorithms, which are step-by-step procedures for accomplishing a task. Students translate these algorithms into a programming language, utilizing common programming structures. The structures covered include variables, functions, loops, control flow, basic data structures, classes, and a brief introduction to object-oriented programming.\nCourse Objectives: - To understand key concepts and abstractions involved in programming. - To be able to write simple computer programs. - To better understand how computers work. - To develop knowledge and skills that will allow the student to use computers to solve novel problems throughout life.",
+    "crumbs": [
+      "Home"
     ]
   }
 ]
