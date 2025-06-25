@@ -20,32 +20,32 @@
     ]
   },
   {
-    "objectID": "projects/readme.html",
-    "href": "projects/readme.html",
-    "title": "Introduction to Programming",
-    "section": "",
-    "text": "Click on each folder to access project content"
-  },
-  {
-    "objectID": "1_algorithms.html#languages-in-computer-science",
-    "href": "1_algorithms.html#languages-in-computer-science",
+    "objectID": "workbooks/1_algorithms.html#languages-in-computer-science",
+    "href": "workbooks/1_algorithms.html#languages-in-computer-science",
     "title": "Warm-up: Making a PB+J sandwich",
     "section": "Languages in Computer Science",
     "text": "Languages in Computer Science\nExplain the concept of binary numbers to a non-technical person, and how binary is used in computers.\nWhat language(s) do we use to translate a human’s native language (like English) into a computer’s native language? Hint: we’re learning one of these in our course."
   },
   {
-    "objectID": "1_algorithms.html#cafe-orders-flowchart",
-    "href": "1_algorithms.html#cafe-orders-flowchart",
+    "objectID": "workbooks/1_algorithms.html#cafe-orders-flowchart",
+    "href": "workbooks/1_algorithms.html#cafe-orders-flowchart",
     "title": "Warm-up: Making a PB+J sandwich",
     "section": "Cafe orders flowchart",
     "text": "Cafe orders flowchart\nRevisit your cafe psuedocode from earlier. Add the following labels to the pseudocode to identify: * which steps require information to be remembered (v) * which steps do a calculation (c) * which steps display information (p) * which steps take in information (i)\nNote, some steps could have multiple labels"
   },
   {
-    "objectID": "1_algorithms.html#print-statements",
-    "href": "1_algorithms.html#print-statements",
+    "objectID": "workbooks/1_algorithms.html#print-statements",
+    "href": "workbooks/1_algorithms.html#print-statements",
     "title": "Warm-up: Making a PB+J sandwich",
     "section": "print statements",
     "text": "print statements\nLet’s try our hand at writing some code! Our main goal of this exercise is understanding how the print command works, and in what circumstances we may experience errors.\nWhen asked to explain, you can either add a text box below these instructions, below each code chunk, or edit these instructions by double-clicking.\n\nTry running the code chunk below that says print(\"Hello World!\"). We sometimes call this executing code. You can either click the play button to the left, or click on the code chunk and use the shortcut Ctrl + Enter.\nAdd a new code chunk, and instead of printing Hello World! to the screen, print the number 42. Try with or without quotes. What changed?\nAdd a new code chunk, and try printing out Hello! to the screen. Try with or without quotes. What happened?\nAdd a new code chunk, and type two commands. The first is Hello = \"Hi\", and the second is print(Hello). To do two commands in one code chunk press Enter to go to a new line after your first command.\nAdd a third command to your code chunk from #4 that is print(hello). How can you tell this command was the one to cause an error?\n\n\nprint(\"Hello World!\")\n\nHello World!"
+  },
+  {
+    "objectID": "standards/readme.html",
+    "href": "standards/readme.html",
+    "title": "Introduction to Programming",
+    "section": "",
+    "text": "Click on standards to view objectives and practice problems. See schedule for when standards will be assessed."
   },
   {
     "objectID": "schedule.html",
@@ -76,7 +76,7 @@
     "href": "slides/index.html#io-input-and-output",
     "title": "Slide Decks",
     "section": "IO: Input and Output",
-    "text": "IO: Input and Output\n\nIO1\nIO2 & workbook\nIO3"
+    "text": "IO: Input and Output\n\nIO1 & workbook\nIO2 & workbook\nIO3"
   },
   {
     "objectID": "slides/index.html#t-turtle",
@@ -100,11 +100,11 @@
     "text": "IF: Conditionals\n-IF1"
   },
   {
-    "objectID": "standards/readme.html",
-    "href": "standards/readme.html",
+    "objectID": "projects/readme.html",
+    "href": "projects/readme.html",
     "title": "Introduction to Programming",
     "section": "",
-    "text": "Click on standards to view objectives and practice problems. See schedule for when standards will be assessed."
+    "text": "Click on each folder to access project content"
   },
   {
     "objectID": "workbooks/2_variables.html#namespace-and-objectspace",
