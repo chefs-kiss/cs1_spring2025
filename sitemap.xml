@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://chefs-kiss.github.io/cs1_spring2025/workbooks/2_variables.html</loc>
-    <lastmod>2025-06-25T18:05:05.051Z</lastmod>
-  </url>
-  <url>
     <loc>https://chefs-kiss.github.io/cs1_spring2025/index.html</loc>
-    <lastmod>2025-06-25T18:05:05.040Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chefs-kiss.github.io/cs1_spring2025/schedule.html</loc>
-    <lastmod>2025-06-25T18:05:05.040Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chefs-kiss.github.io/cs1_spring2025/materials.html</loc>
-    <lastmod>2025-06-25T18:05:05.040Z</lastmod>
+    <lastmod>2025-06-25T18:10:06.567Z</lastmod>
   </url>
   <url>
     <loc>https://chefs-kiss.github.io/cs1_spring2025/Runestone/runestone.html</loc>
-    <lastmod>2025-06-25T18:05:05.039Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chefs-kiss.github.io/cs1_spring2025/slides/index.html</loc>
-    <lastmod>2025-06-25T18:05:05.049Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chefs-kiss.github.io/cs1_spring2025/standards/readme.html</loc>
-    <lastmod>2025-06-25T18:05:05.049Z</lastmod>
+    <lastmod>2025-06-25T18:10:06.567Z</lastmod>
   </url>
   <url>
     <loc>https://chefs-kiss.github.io/cs1_spring2025/projects/readme.html</loc>
-    <lastmod>2025-06-25T18:05:05.040Z</lastmod>
+    <lastmod>2025-06-25T18:10:06.568Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chefs-kiss.github.io/cs1_spring2025/slides/index.html</loc>
+    <lastmod>2025-06-25T18:10:06.577Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chefs-kiss.github.io/cs1_spring2025/schedule.html</loc>
+    <lastmod>2025-06-25T18:10:06.568Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chefs-kiss.github.io/cs1_spring2025/standards/readme.html</loc>
+    <lastmod>2025-06-25T18:10:06.577Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chefs-kiss.github.io/cs1_spring2025/workbooks/2_variables.html</loc>
+    <lastmod>2025-06-25T18:10:06.579Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chefs-kiss.github.io/cs1_spring2025/materials.html</loc>
+    <lastmod>2025-06-25T18:10:06.568Z</lastmod>
   </url>
 </urlset>
