@@ -20,32 +20,32 @@
     ]
   },
   {
-    "objectID": "workbooks/1_algorithms.html#languages-in-computer-science",
-    "href": "workbooks/1_algorithms.html#languages-in-computer-science",
-    "title": "Warm-up: Making a PB+J sandwich",
-    "section": "Languages in Computer Science",
-    "text": "Languages in Computer Science\nExplain the concept of binary numbers to a non-technical person, and how binary is used in computers.\nWhat language(s) do we use to translate a human’s native language (like English) into a computer’s native language? Hint: we’re learning one of these in our course."
-  },
-  {
-    "objectID": "workbooks/1_algorithms.html#cafe-orders-flowchart",
-    "href": "workbooks/1_algorithms.html#cafe-orders-flowchart",
-    "title": "Warm-up: Making a PB+J sandwich",
-    "section": "Cafe orders flowchart",
-    "text": "Cafe orders flowchart\nRevisit your cafe psuedocode from earlier. Add the following labels to the pseudocode to identify: * which steps require information to be remembered (v) * which steps do a calculation (c) * which steps display information (p) * which steps take in information (i)\nNote, some steps could have multiple labels"
-  },
-  {
-    "objectID": "workbooks/1_algorithms.html#print-statements",
-    "href": "workbooks/1_algorithms.html#print-statements",
-    "title": "Warm-up: Making a PB+J sandwich",
-    "section": "print statements",
-    "text": "print statements\nLet’s try our hand at writing some code! Our main goal of this exercise is understanding how the print command works, and in what circumstances we may experience errors.\nWhen asked to explain, you can either add a text box below these instructions, below each code chunk, or edit these instructions by double-clicking.\n\nTry running the code chunk below that says print(\"Hello World!\"). We sometimes call this executing code. You can either click the play button to the left, or click on the code chunk and use the shortcut Ctrl + Enter.\nAdd a new code chunk, and instead of printing Hello World! to the screen, print the number 42. Try with or without quotes. What changed?\nAdd a new code chunk, and try printing out Hello! to the screen. Try with or without quotes. What happened?\nAdd a new code chunk, and type two commands. The first is Hello = \"Hi\", and the second is print(Hello). To do two commands in one code chunk press Enter to go to a new line after your first command.\nAdd a third command to your code chunk from #4 that is print(hello). How can you tell this command was the one to cause an error?\n\n\nprint(\"Hello World!\")\n\nHello World!"
-  },
-  {
     "objectID": "standards/readme.html",
     "href": "standards/readme.html",
     "title": "Introduction to Programming",
     "section": "",
     "text": "Click on standards to view objectives and practice problems. See schedule for when standards will be assessed."
+  },
+  {
+    "objectID": "content/1_algorithms.html#languages-in-computer-science",
+    "href": "content/1_algorithms.html#languages-in-computer-science",
+    "title": "Warm-up: Making a PB+J sandwich",
+    "section": "Languages in Computer Science",
+    "text": "Languages in Computer Science\nExplain the concept of binary numbers to a non-technical person, and how binary is used in computers.\nWhat language(s) do we use to translate a human’s native language (like English) into a computer’s native language? Hint: we’re learning one of these in our course."
+  },
+  {
+    "objectID": "content/1_algorithms.html#cafe-orders-flowchart",
+    "href": "content/1_algorithms.html#cafe-orders-flowchart",
+    "title": "Warm-up: Making a PB+J sandwich",
+    "section": "Cafe orders flowchart",
+    "text": "Cafe orders flowchart\nRevisit your cafe psuedocode from earlier. Add the following labels to the pseudocode to identify: * which steps require information to be remembered (v) * which steps do a calculation (c) * which steps display information (p) * which steps take in information (i)\nNote, some steps could have multiple labels"
+  },
+  {
+    "objectID": "content/1_algorithms.html#print-statements",
+    "href": "content/1_algorithms.html#print-statements",
+    "title": "Warm-up: Making a PB+J sandwich",
+    "section": "print statements",
+    "text": "print statements\nLet’s try our hand at writing some code! Our main goal of this exercise is understanding how the print command works, and in what circumstances we may experience errors.\nWhen asked to explain, you can either add a text box below these instructions, below each code chunk, or edit these instructions by double-clicking.\n\nTry running the code chunk below that says print(\"Hello World!\"). We sometimes call this executing code. You can either click the play button to the left, or click on the code chunk and use the shortcut Ctrl + Enter.\nAdd a new code chunk, and instead of printing Hello World! to the screen, print the number 42. Try with or without quotes. What changed?\nAdd a new code chunk, and try printing out Hello! to the screen. Try with or without quotes. What happened?\nAdd a new code chunk, and type two commands. The first is Hello = \"Hi\", and the second is print(Hello). To do two commands in one code chunk press Enter to go to a new line after your first command.\nAdd a third command to your code chunk from #4 that is print(hello). How can you tell this command was the one to cause an error?\n\n\nprint(\"Hello World!\")\n\nHello World!"
   },
   {
     "objectID": "schedule.html",
@@ -100,39 +100,39 @@
     "text": "IF: Conditionals\n-IF1"
   },
   {
-    "objectID": "projects/readme.html",
-    "href": "projects/readme.html",
-    "title": "Introduction to Programming",
-    "section": "",
-    "text": "Click on each folder to access project content"
-  },
-  {
-    "objectID": "workbooks/2_variables.html#namespace-and-objectspace",
-    "href": "workbooks/2_variables.html#namespace-and-objectspace",
+    "objectID": "content/2_variables.html#namespace-and-objectspace",
+    "href": "content/2_variables.html#namespace-and-objectspace",
     "title": "Warm-up",
     "section": "Namespace and Objectspace",
     "text": "Namespace and Objectspace\nUsing at the code below, fill in the rest of the following (double-click to edit):\nnamespace –&gt; objectspace\n\na –&gt; 4\n__ –&gt; __\n__ –&gt; __\n\n\na = 4\nb = a + a\na = b *4\n\nTo check your work, add a print statement to see the final value of a"
   },
   {
-    "objectID": "workbooks/2_variables.html#variable-types-and-naming",
-    "href": "workbooks/2_variables.html#variable-types-and-naming",
+    "objectID": "content/2_variables.html#variable-types-and-naming",
+    "href": "content/2_variables.html#variable-types-and-naming",
     "title": "Warm-up",
     "section": "Variable Types and Naming",
     "text": "Variable Types and Naming\nFirst, add (ok) after any variables which are valid variable names.\nSecondly, for the valid variable names do the following:\nBold any of the following variable names which follow good naming conventions.\nItalize any names which are not meaningful.\n\nPipp1n\nPIPPIN!\n_2hobbit4u\npippinTook\n1ring2rule\npip_the_hobbit\nPIPPIN$$\np\n\nWrite a brief reason for variables you made bold or italic."
   },
   {
-    "objectID": "workbooks/2_variables.html#temperature-conversion-program",
-    "href": "workbooks/2_variables.html#temperature-conversion-program",
+    "objectID": "content/2_variables.html#temperature-conversion-program",
+    "href": "content/2_variables.html#temperature-conversion-program",
     "title": "Warm-up",
     "section": "Temperature Conversion Program",
     "text": "Temperature Conversion Program\nWe want a program that will convert temperatures from C to F. The steps for doing this are: 1. Use the input function to get the temperature in C from the user, and store it in as a float in an appropriately named variable. 2. Convert the C temperature to its F equivalent. The formula to convert C to F is: 9/5 C + 32. 3. Use print to provide the user with a message that tells them the temperature in C (that they provided) and what its equivalent temperature is in F.\nAn example of running your program will produce the following first line for the user input (user enters 0) and the second line as the output:\nWhat is the temperature in C: 0\n0C is 32F.\nOnce you have a program that works, try to make it more efficient by using only one variable and only two lines of code.\n\n#your code here"
   },
   {
-    "objectID": "workbooks/2_variables.html#the-year-you-turn-100",
-    "href": "workbooks/2_variables.html#the-year-you-turn-100",
+    "objectID": "content/2_variables.html#the-year-you-turn-100",
+    "href": "content/2_variables.html#the-year-you-turn-100",
     "title": "Warm-up",
     "section": "The Year You Turn 100",
     "text": "The Year You Turn 100\nWrite a program that prompts the user to enter their age and the current year. It then displays the year they will turn 100.\nAn example of executing this program is given below:\nWhat is your age? 30\nWhat year is it? 2024\nYou will turn 100 in the year 2094\n\n#your code here"
+  },
+  {
+    "objectID": "projects/readme.html",
+    "href": "projects/readme.html",
+    "title": "Introduction to Programming",
+    "section": "",
+    "text": "Click on each folder to access project content"
   },
   {
     "objectID": "materials.html",
